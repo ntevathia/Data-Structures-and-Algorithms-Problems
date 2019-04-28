@@ -1,0 +1,1 @@
+# This repo touches on all the data structures with basic operations like insert, delete and search
